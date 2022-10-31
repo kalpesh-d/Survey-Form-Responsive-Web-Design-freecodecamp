@@ -2,4 +2,4 @@
 This is a Responsive Validation Form
 ###### Website link (Live Preview) https://codepen.io/kalpesh-d/pen/rNKObXp
 
-![survey-form](https://user-images.githubusercontent.com/38274099/199022262-b921f5a2-e403-4d49-ad24-32cb84961772.png)
+![survey-form](https://user-images.githubusercontent.com/38274099/199024691-e381c452-c8b1-4ead-bbfb-926f1acc4c47.png)
